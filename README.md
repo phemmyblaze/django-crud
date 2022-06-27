@@ -1,1 +1,1 @@
-# Zuri-Django-CRUD-Task
+#Django-crud
